@@ -12,12 +12,5 @@
         "titleText": "second Item JSON (TTS)",
         "mainText": "This channel has multiple TTS JSON items. This is the second item.",
         "redirectionUrl": "https://www.amazon.com"
-    },
-     {
-        "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-        "updateDate": "2017-05-26T00:00:10.0Z",
-        "titleText": "Third Item JSON (TTS)",
-        "mainText": "This channel has multiple TTS JSON items. This is the Third item.",
-        "redirectionUrl": "https://www.amazon.com"
     }
 ]
