@@ -3,7 +3,21 @@
         "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_4",
         "updateDate": "2017-05-30T00:01:00.0Z",
         "titleText": "First Item JSON ",
-        "mainText": "This is the first item.",
+        "mainText": "first, This is the item.",
+        "redirectionUrl": "https://www.amazon.com"
+    },
+    {
+        "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
+        "updateDate": "2017-05-30T00:00:10.0Z",
+        "titleText": "second Item JSON ",
+        "mainText": "This is the second item.",
+        "redirectionUrl": "https://www.amazon.com"
+    },
+    {
+        "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
+        "updateDate": "2017-05-30T00:01:00.0Z",
+        "titleText": "Third Item JSON ",
+        "mainText": "This is the Third item.",
         "redirectionUrl": "https://www.amazon.com"
     }
 ]
