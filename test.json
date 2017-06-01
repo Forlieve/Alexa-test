@@ -9,7 +9,7 @@
     {
         "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
         "updateDate": "2017-05-30T00:00:10.0Z",
-        "titleText": "second Item JSON (TTS)",
+        "titleText": "second Item JSON ",
         "mainText": "This is the second item.",
         "redirectionUrl": "https://www.amazon.com"
     },
