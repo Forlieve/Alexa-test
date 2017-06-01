@@ -19,5 +19,26 @@
         "titleText": "Third Item JSON ",
         "mainText": "This is the Third item.",
         "redirectionUrl": "https://www.amazon.com"
+    },
+    {
+        "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
+        "updateDate": "2017-05-30T00:01:00.0Z",
+        "titleText": "Third Item JSON ",
+        "mainText": "This is the forth item.",
+        "redirectionUrl": "https://www.amazon.com"
+    },
+    {
+        "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
+        "updateDate": "2017-05-30T00:01:00.0Z",
+        "titleText": "Third Item JSON ",
+        "mainText": "This is the fifth item.",
+        "redirectionUrl": "https://www.amazon.com"
+    },
+    {
+        "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
+        "updateDate": "2017-05-30T00:01:00.0Z",
+        "titleText": "Third Item JSON ",
+        "mainText": "This is the sixeth item.",
+        "redirectionUrl": "https://www.amazon.com"
     }
 ]
