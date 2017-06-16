@@ -1,21 +1,21 @@
 [
     {
         "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
-        "updateDate": "2017-06-02T00:01:00.0Z",
+        "updateDate": "2017-06-15T00:01:00.0Z",
         "titleText": "First Item JSON ",
-        "mainText": "This is the first item.",
+        "mainText": "This is the first item.Xiaomi was largely rumoured to launch the Mi 6 Plus alongside the Mi 6, but that didn’t happen, and leaks of the Mi 6 Plus also reduced post the Mi 6 launch in April. ",
         "redirectionUrl": "https://www.amazon.com"
     },
     {
         "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-        "updateDate": "2017-06-08T00:00:10.0Z",
+        "updateDate": "2017-06-15T00:00:10.0Z",
         "titleText": "second Item JSON ",
-        "mainText": "This is the second item.",
+        "mainText": "This is the second item.The Xiaomi Mi 6 Plus has been rumoured on multiple occasions and it is expected to feature a 5.7-inch full-HD display, and Snapdragon 835 SoC. ",
         "redirectionUrl": "https://www.amazon.com"
     },
     {
         "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
-        "updateDate": "2017-06-05T00:01:00.0Z",
+        "updateDate": "2017-06-15T00:01:00.0Z",
         "titleText": "Third Item JSON ",
         "mainText": "This is the Third item.",
         "redirectionUrl": "https://www.amazon.com"
